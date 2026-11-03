@@ -2,14 +2,10 @@
 입력: 오늘 날짜 {DATE}, 회차 {SLOT}(오전 08:00 또는 오후 17:00).
 
 1. data/seen.tsv(형식: 날짜<TAB>정규화URL<TAB>제목)가 있으면 읽는다.
-2. 다음 RSS에서 최근 24시간 기사를 수집한다. 실패한 피드는 건너뛴다.
-   - GeekNews: https://news.hada.io/rss/news
-   - Hacker News: https://hnrss.org/frontpage?points=150
-   - TechCrunch: https://techcrunch.com/feed/
-   - The Verge: https://www.theverge.com/rss/index.xml
-   - Ars Technica: https://feeds.arstechnica.com/arstechnica/index
-   - 블로터: https://www.bloter.net/rss/allArticle.xml
-   - ZDNet Korea: https://feeds.feedburner.com/zdkorea
+2. RSS는 직접 가져오지 않는다. 실행 스크립트가 미리 수집한 파일을 Read로 읽는다.
+   - .cache/feeds/items.tsv: 피드<TAB>제목<TAB>URL<TAB>발행시각(ISO, UTC)<TAB>요약(300자) — 최근 36시간 항목
+   - .cache/feeds/status.tsv: 피드<TAB>OK(n) 또는 FAIL(사유)
+   이 중 최근 24시간 기사를 후보로 쓴다. FAIL인 피드는 건너뛴다.
 3. URL을 정규화한다(utm_* 같은 추적 파라미터와 끝의 / 제거). 다음은 제외한다:
    - seen.tsv에 이미 있는 URL
    - 최근 3일 안의 daily 파일에 이미 실린 같은 사건
@@ -25,7 +21,8 @@
    - 핵심 포인트 3~5개
    원문 문장을 그대로 옮기지 말고 직접 다시 쓴다. 인용은 따옴표로 1~2문장까지만 쓴다.
    원문에 없는 배경 설명은 상세 요약 본문에 섞지 않는다. 필요하면 맨 끝에 "> 배경(편집자 설명): ..." 인용 블록으로만 쓴다.
-   원문을 읽을 수 없으면 RSS 내용으로 요약하고, 표시 문구는 정확히 "(원문 접근 불가, RSS 기반 요약)" 하나만 쓴다. 다른 변형은 쓰지 않는다.
+   원문은 WebFetch로 읽는다. 접근이 막히거나 실패하면 items.tsv의 요약으로 쓰고, 표시 문구는 정확히 "(원문 접근 불가, RSS 기반 요약)" 하나만 쓴다. 다른 변형은 쓰지 않는다.
+   RSS 요약도 너무 짧아 요약할 수 없으면 그 기사는 싣지 않고 SKIPPED_NO_CONTENT로 센다.
 6. 일별 페이지 daily/YYYY/MM/YYYY-MM-DD.md를 갱신한다.
    - 파일이 없으면 "# YYYY-MM-DD IT 뉴스"로 만든다.
    - 기존 내용은 유지하고, "## 오전 (08:00)" 또는 "## 오후 (17:00)" 섹션 아래에 추가한다.
@@ -33,6 +30,6 @@
 7. 실은 기사를 data/seen.tsv에 추가한다. 30일보다 오래된 줄은 지운다.
 8. README.md의 "## 최근 소식" 섹션을 최근 7일 daily 링크 목록(최신순)으로 갱신한다.
 9. 새 기사가 0개면 아무 파일도 바꾸지 않는다. 10번의 실행 요약을 출력한 뒤, 그다음 줄에 "NO_NEW_ARTICLES"를 출력하고 끝낸다.
-10. 마지막에 실행 요약을 출력한다(새 기사가 0개일 때도 출력). n은 가져온 항목 수다.
+10. 마지막에 실행 요약을 출력한다(새 기사가 0개일 때도 출력). FEEDS 줄은 .cache/feeds/status.tsv의 값을 그대로 옮긴다.
    FEEDS: GeekNews=OK(n), HN=OK(n), TechCrunch=OK(n), TheVerge=OK(n), ArsTechnica=OK(n), 블로터=OK(n), ZDNetKorea=OK(n) (실패한 피드는 =FAIL(사유))
-   SELECTED: n, SKIPPED_DUP: n, SKIPPED_UNVERIFIED: n
+   SELECTED: n, SKIPPED_DUP: n, SKIPPED_UNVERIFIED: n, SKIPPED_NO_CONTENT: n
