@@ -1,7 +1,22 @@
-GeekNews	https://news.hada.io/rss/news
-HN	https://hnrss.org/frontpage?points=150
-TechCrunch	https://techcrunch.com/feed/
-TheVerge	https://www.theverge.com/rss/index.xml
-ArsTechnica	https://feeds.arstechnica.com/arstechnica/index
-블로터	https://www.bloter.net/rss/allArticle.xml
-ZDNetKorea	https://feeds.feedburner.com/zdkorea
+# 분야	피드 이름	URL
+it	GeekNews	https://news.hada.io/rss/news
+it	HN	https://hnrss.org/frontpage?points=150
+it	TechCrunch	https://techcrunch.com/feed/
+it	TheVerge	https://www.theverge.com/rss/index.xml
+it	ArsTechnica	https://feeds.arstechnica.com/arstechnica/index
+it	블로터	https://www.bloter.net/rss/allArticle.xml
+it	ZDNetKorea	https://feeds.feedburner.com/zdkorea
+ai	OpenAI	https://openai.com/news/rss.xml
+ai	GoogleAI	https://blog.google/technology/ai/rss/
+ai	TechCrunchAI	https://techcrunch.com/category/artificial-intelligence/feed/
+ai	TheVergeAI	https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+ai	MITTechReviewAI	https://www.technologyreview.com/topic/artificial-intelligence/feed
+ai	AI타임스	https://www.aitimes.com/rss/allArticle.xml
+stock-global	CNBCMarkets	https://www.cnbc.com/id/15839135/device/rss/rss.html
+stock-global	CNBCTop	https://www.cnbc.com/id/100003114/device/rss/rss.html
+stock-global	Investing	https://www.investing.com/rss/news_25.rss
+stock-global	SeekingAlpha	https://seekingalpha.com/market_currents.xml
+stock-kr	연합뉴스마켓	https://www.yna.co.kr/rss/market.xml
+stock-kr	한국경제증권	https://www.hankyung.com/feed/finance
+stock-kr	매일경제증권	https://www.mk.co.kr/rss/50200011/
+stock-kr	이데일리증권	http://rss.edaily.co.kr/stock_news.xml

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""RSS/Atom 사전 수집: scripts/feeds.tsv -> .cache/feeds/{items,status}.tsv (표준 라이브러리만 사용)."""
+"""RSS/Atom 사전 수집: scripts/feeds.tsv -> .cache/feeds/{items,status}[-분야].tsv (표준 라이브러리만 사용)."""
 import html
 import re
 import sys
@@ -16,6 +16,7 @@ UA = "Mozilla/5.0 (X11; Linux x86_64) it-news-fetcher/1.0 (+https://github.com/J
 TIMEOUT = 30
 WINDOW = timedelta(hours=36)
 SUMMARY_LEN = 300
+MAX_PER_FEED = 40  # 연합뉴스처럼 항목이 많은 피드가 후보 파일을 키우지 않도록 최신순으로 자른다.
 
 
 def clean(text, limit=None):
@@ -98,30 +99,37 @@ def parse(data):
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc)
-    rows, status = [], []
+    rows, status = {}, {}
     for line in FEEDS.read_text(encoding="utf-8").splitlines():
         if not line.strip() or line.startswith("#"):
             continue
-        name, url = line.split("\t", 1)
+        category, name, url = line.split("\t", 2)
+        rows.setdefault(category, [])
+        status.setdefault(category, [])
         try:
             req = urllib.request.Request(url.strip(), headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
             with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
                 data = r.read()
-            n = 0
+            recent = []
             for title, link, date, summ in parse(data):
                 dt = parse_date(date)
                 if dt is None or now - dt > WINDOW or not link:
                     continue
-                rows.append("\t".join([name, clean(title), link.strip(), dt.astimezone(timezone.utc).isoformat(), clean(summ, SUMMARY_LEN)]))
-                n += 1
-            status.append(f"{name}\tOK({n})")
+                recent.append((dt, title, link, summ))
+            recent.sort(key=lambda item: item[0], reverse=True)
+            recent = recent[:MAX_PER_FEED]
+            for dt, title, link, summ in recent:
+                rows[category].append("\t".join([name, clean(title), link.strip(), dt.astimezone(timezone.utc).isoformat(), clean(summ, SUMMARY_LEN)]))
+            status[category].append(f"{name}\tOK({len(recent)})")
         except Exception as e:  # 피드 하나가 실패해도 계속
             reason = clean(f"{type(e).__name__}: {e}", 120)
-            status.append(f"{name}\tFAIL({reason})")
-    (OUT / "items.tsv").write_text("".join(r + "\n" for r in rows), encoding="utf-8")
-    (OUT / "status.tsv").write_text("".join(s + "\n" for s in status), encoding="utf-8")
-    print("\n".join(status))
-    print(f"items: {len(rows)}")
+            status[category].append(f"{name}\tFAIL({reason})")
+    for category in rows:
+        suffix = "" if category == "it" else f"-{category}"  # IT는 접미사 없는 기존 경로를 쓴다.
+        (OUT / f"items{suffix}.tsv").write_text("".join(r + "\n" for r in rows[category]), encoding="utf-8")
+        (OUT / f"status{suffix}.tsv").write_text("".join(s + "\n" for s in status[category]), encoding="utf-8")
+        print(f"[{category}] items: {len(rows[category])}")
+        print("\n".join(status[category]))
 
 
 if __name__ == "__main__":
