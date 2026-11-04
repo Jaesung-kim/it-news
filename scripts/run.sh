@@ -7,7 +7,7 @@ exec 9>"$LOG_DIR/run.lock"; flock -n 9 || { echo "already running"; exit 0; }
 cd "$HOME/it-news" || exit 1
 NOTIFY="$HOME/it-news/scripts/notify.sh"
 BLOB_URL="https://github.com/Jaesung-kim/it-news/blob/main"
-DATE=$(date +%F); if [ "$(date +%H)" -lt 12 ]; then SLOT="오전 08:00"; AMPM="오전"; else SLOT="오후 17:00"; AMPM="오후"; fi
+DATE=$(date +%F); if [ "$(date +%H)" -lt 12 ]; then SLOT="오전 07:30"; AMPM="오전"; else SLOT="오후 17:00"; AMPM="오후"; fi
 LOG="$LOG_DIR/$DATE.log"
 
 fail() {  # fail <사유>
