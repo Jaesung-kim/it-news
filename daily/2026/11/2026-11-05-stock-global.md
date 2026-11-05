@@ -37,3 +37,40 @@
 - 연간 매출·영업이익 증가율 전망을 -6~0%에서 -2~2%로 높였다.
 
 [상세](../../../articles/2026/11/05/novo-nordisk-q3-wegovy-pill-outlook.md) · [원문](https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html) · CNBC
+
+## 오후 (17:00)
+
+### 도요타, 연간 영업이익 전망 3조 9000억 엔으로 상향…주가 14.9% 급등, 닛케이는 2% 하락
+- 도요타 주가는 11월 5일 거래에서 14.9% 오른 3479엔을 기록했다.
+- 7~9월 영업이익은 34% 늘어 추정치 중앙값 9920억 엔을 넘어섰다.
+- 같은 날 닛케이225 지수는 현지 기술주 약세로 2% 내렸다.
+
+[상세](../../../articles/2026/11/05/toyota-q2-profit-guidance-raise.md) · [원문](https://www.investing.com/news/stock-market-news/why-is-toyota-motor-stock-surging-today-93CH-5002435) · Investing.com
+
+### 독일 라인메탈, 3개월 새 두 번째 전망 하향…군 계약 지연에 주가 장 초반 15% 넘게 급락
+- 2026년 매출 전망을 137억~142억 유로에서 약 132억 유로로 낮췄다.
+- 주가는 11월 5일 장 초반 15% 넘게 떨어졌다.
+- 독일군 복서 사업 지연과 포탄 인수 시험 차질이 원인으로 제시됐다.
+
+[상세](../../../articles/2026/11/05/rheinmetall-cuts-2026-outlook-again.md) · [원문](https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html) · CNBC
+
+### 백악관 위원회, 리사 쿡 연준 이사 청문회 12월 14일로 연기…쿡 측 요청
+- 11월 5일 예정이던 청문회가 12월 14일로 미뤄졌다.
+- 쿡 측은 유럽에서 열리는 금융·통화정책 회의 참석을 이유로 들었다.
+- 쿡은 의혹을 부인하며 금리 인하 찬성 거부가 진짜 이유라고 주장한다.
+
+[상세](../../../articles/2026/11/05/lisa-cook-hearing-delayed-dec-14.md) · [원문](https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html) · CNBC
+
+### 닌텐도 스위치 2 판매 41% 급감…가격 인상·메모리 비용 부담에 실적도 전망치 밑돌아
+- 7~9월 스위치 2 판매량은 267만 대로 전년 동기보다 41% 줄었다.
+- 매출 4482억 엔은 LSEG 추정치 4813억 7000만 엔을 밑돌았다.
+- 회계연도 판매 전망 1650만 대는 그대로 유지했다.
+
+[상세](../../../articles/2026/11/05/nintendo-switch-2-sales-fall-41-percent.md) · [원문](https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html) · CNBC
+
+### 호주 넥스트DC 50.84% 폭등…굿맨·디지털리얼티가 최대 9.9% 지분 매입 추진
+- 넥스트DC 주가는 11월 5일 50.84% 오른 채 마감했다.
+- 굿맨·디지털리얼티는 주당 9.50호주달러에 최대 9.9% 매입을 추진했다.
+- 두 회사는 현재 인수 의사가 없다면서도 제안할 권리는 남겨 뒀다.
+
+[상세](../../../articles/2026/11/05/nextdc-surges-goodman-digital-realty-stake.md) · [원문](https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html) · CNBC
