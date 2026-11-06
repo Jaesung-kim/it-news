@@ -37,3 +37,33 @@
 - 도이체방크는 텍사스 규제로 컴퓨팅 용량 확보가 늦어질 수 있다고 봤다.
 
 [상세](../../../articles/2026/11/06/tesla-spacex-market-cap-loss-midterms.md) · [원문](https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html) · CNBC
+
+## 오후 (17:00)
+
+### 닛케이 6.04%·코스피 6% 급락 마감…뉴욕발 AI 투매에 일본·대만 약세장, 인도만 상승
+- 11월 6일 닛케이225는 6.04% 내려 마감하며 약세장에 들어섰다.
+- 코스피는 장중 4,911.28까지 밀려 서킷브레이커가 걸린 뒤 6% 내려 끝났다.
+- 같은 날 대만 가권지수는 4.5% 내렸고 인도 니프티50은 0.5% 올랐다.
+
+[상세](../../../articles/2026/11/06/asia-stocks-tumble-nikkei-kospi-ai-rout.md) · [원문](https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358) · Investing.com, CNBC
+
+### 국제유가 상승, 브렌트유 100달러 턱밑…"미국·이란 교전 재개 확률 80%" 전망과 외교 기대 교차
+- 11월 6일 CNBC 보도 시점 브렌트유는 1.67% 오른 99.90달러였다.
+- 맥널리 래피던 대표는 군사 충돌 재개 확률을 80%로 제시했다.
+- 이란은 카타르를 통해 조건부 핵 제안을 보낸 것으로 전해졌다.
+
+[상세](../../../articles/2026/11/06/oil-rises-iran-escalation-risk.md) · [원문](https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html) · CNBC
+
+### 유럽 증시도 하락 출발 전망…유로스톡스50 선물 1% 하락, 스톡스600은 AI 비중 작아 상대적 선방
+- 11월 6일 개장 전 유로스톡스50 선물은 1% 하락했다.
+- 스톡스600은 AI 비중이 작아 이번 주 1.3% 넘게 오른 상태였다.
+- 로이터는 ASML 등 유럽 AI 관련주에 부담이 이어질 것으로 봤다.
+
+[상세](../../../articles/2026/11/06/european-shares-set-to-fall-ai-rout.md) · [원문](https://www.investing.com/news/stock-market-news/european-shares-set-to-fall-as-global-ai-rout-gathers-pace-5006641) · 로이터(Investing.com)
+
+### 인도 증시는 'AI 헤지'인가…JP모건 "1150억 달러 유입 가능" vs 번스타인 "동의하지 않는다"
+- 니프티50은 11월 6일 보도 기준 최근 한 달간 9% 가까이 올랐다.
+- JP모건은 외국인 비중이 중립으로 돌아오면 약 1150억 달러 유입을 추산했다.
+- 번스타인은 인도가 AI 수혜국도 반AI 거래도 아니라며 반대했다.
+
+[상세](../../../articles/2026/11/06/india-ai-hedge-debate.md) · [원문](https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html) · CNBC
