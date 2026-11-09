@@ -37,3 +37,33 @@
 - 순이자마진은 1.53%로 소폭 낮아졌고 기말 배당은 83호주센트로 유지됐다.
 
 [상세](../../../articles/2026/11/09/anz-full-year-cash-profit-rises-31-percent.md) · [원문](https://www.investing.com/news/stock-market-news/australian-lender-anz-reports-31-rise-in-fullyear-cash-profit-5010331) · 로이터(Investing.com)
+
+## 오후 (17:00)
+
+### 아시아 증시 반등…대만 자취안 장중 6.4% 급등, 닛케이 2.51% 상승 마감
+- 닛케이 225는 11월 9일 2.51% 오른 채 마감했고 변동성 지수는 6개월 최고였다.
+- 대만 자취안은 장중 최대 6.4% 올라 7거래일 연속 하락에서 벗어났다.
+- 엔비디아 조사 소식에 나스닥 100 선물은 한때 1% 내렸다가 반등했다.
+
+[상세](../../../articles/2026/11/09/asia-stocks-rebound-taiwan-jumps-nikkei-close.md) · [원문](https://www.investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437) · Investing.com
+
+### 中 10월 생산자물가 5.7% 올라 4년여 만에 최고…소비자물가는 0.7%로 둔화
+- 중국 10월 PPI가 5.7% 올라 예상치 5.3%를 웃돌며 2022년 6월 이후 최고였다.
+- 10월 CPI는 0.7%로 9월 0.9%에서 낮아져 예상치 0.8%를 밑돌았다.
+- 식품 가격이 2.9% 떨어졌고, 전문가는 부동산 탓에 내수가 약하다고 봤다.
+
+[상세](../../../articles/2026/11/09/china-october-ppi-cpi.md) · [원문](https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html) · CNBC, Seeking Alpha
+
+### 크레디 아그리콜, 이탈리아 방코 BPM에 합병 제안…20% 프리미엄·10억 유로 특별배당
+- 크레디 아그리콜이 이탈리아 자회사와 방코 BPM의 합병을 제안했다.
+- 지분은 29.6%에서 약 45%로 늘지만 의무 공개매수는 하지 않는 구조다.
+- 이탈리아 3위 은행 그룹이 되며 완료 시점은 2027년 하반기로 제시됐다.
+
+[상세](../../../articles/2026/11/09/credit-agricole-banco-bpm-merger-proposal.md) · [원문](https://www.investing.com/news/stock-market-news/credit-agricole-proposes-banco-bpm-merger-20-premium-and-1-bln-dividend-5010541) · Investing.com
+
+### 에어버스, 최대 50억 유로 자사주 매입 개시…1차분 8억 유로는 12월 23일까지
+- 에어버스가 11월 9일 최대 50억 유로 규모 자사주 매입을 시작했다.
+- 1차 매입분은 최대 8억 유로로 12월 23일까지 집행된다.
+- 프로그램은 2029년 7월 31일까지 이어지며 매입 주식은 소각한다.
+
+[상세](../../../articles/2026/11/09/airbus-5-billion-buyback-first-tranche.md) · [원문](https://www.investing.com/news/stock-market-news/airbus-kicks-off-5-bln-buyback-with-first-800-mln-tranche-5010628) · Investing.com
