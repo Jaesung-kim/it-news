@@ -37,3 +37,40 @@
 - 737 맥스는 월 약 47대에서 안정화 중이고 2027년 하반기 52대가 목표다.
 
 [상세](../../../articles/2026/11/10/boeing-cuts-5-percent-commercial-airplanes.md) · [원문](https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html) · CNBC
+
+## 오후 (17:00)
+
+### 닛케이 2.76% 상승 마감…소프트뱅크 13.88% 급등, 아시아 기술주 월가 반등 따라 올랐다
+- 닛케이225 지수는 11월 10일 2.76% 오른 채 장을 마쳤다.
+- 소프트뱅크그룹이 13.88% 올라 닛케이225 상승률 1위였다.
+- SK하이닉스 6.69%, TSMC 2.24% 등 아시아 반도체주도 강세였다.
+
+[상세](../../../articles/2026/11/10/nikkei-up-276-asia-tech-rebound-softbank.md) · [원문](https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-276-5014251) · Investing.com, CNBC
+
+### 소프트뱅크, 2분기 순손실 1조 1200억 엔(70억 달러)으로 적자 전환…주가는 13.9% 급등 마감
+- 소프트뱅크는 2분기 순손실 1조 1200억 엔으로 적자 전환했다.
+- 매출은 2조 2200억 엔으로 LSEG 예상치 2조 200억 엔을 넘었다.
+- 9월 말 오픈AI 투자 공정가치는 996억 달러로 집계됐다.
+
+[상세](../../../articles/2026/11/10/softbank-q2-net-loss-7-billion.md) · [원문](https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html) · CNBC, 로이터(Investing.com)
+
+### TSMC 10월 매출 5868억 9000만 대만달러…전년 대비 59.7% 증가
+- TSMC 10월 매출은 전년 대비 59.7%, 전월 대비 14.7% 늘었다.
+- CNBC는 빅테크의 AI 투자에 따른 반도체 수요를 이유로 꼽았다.
+- TSMC 주가는 11월 10일 2.24% 오른 채 마감했다.
+
+[상세](../../../articles/2026/11/10/tsmc-october-revenue-up-59-percent.md) · [원문](https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html) · CNBC
+
+### 中 10월 수입 41.6% 급증, 수출은 35.2% 증가…올해 누적 무역흑자 1조 400억 달러
+- 중국 10월 수입은 41.6% 늘어 전망치 32%를 크게 웃돌았다.
+- 수출은 35.2% 늘었지만 9월 36.3%보다는 증가세가 둔화했다.
+- 올해 누적 무역흑자는 1조 400억 달러로 1조 달러를 넘었다.
+
+[상세](../../../articles/2026/11/10/china-october-trade-imports-surplus-1-trillion.md) · [원문](https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html) · CNBC
+
+### 혼다, 연간 영업이익 전망 7800억 엔으로 20% 상향…2분기는 EV 구조조정 비용에 39% 감익
+- 혼다는 연간 영업이익 전망을 6500억 엔에서 7800억 엔으로 올렸다.
+- 2분기 영업이익은 1180억 엔으로 전년보다 39% 줄었다.
+- EV 사업 구조조정 비용 4848억 엔이 분기 이익을 끌어내렸다.
+
+[상세](../../../articles/2026/11/10/honda-raises-profit-outlook-ev-costs.md) · [원문](https://www.investing.com/news/stock-market-news/honda-raises-fullyear-profit-outlook-books-3-billion-in-evlinked-costs-in-q2-5014292) · 로이터(Investing.com)
