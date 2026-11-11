@@ -37,3 +37,40 @@
 - HELOC 잔액은 230억 달러 늘어 2005년 이후 최대 증가폭이었다.
 
 [상세](../../../articles/2026/11/11/ny-fed-household-debt-credit-card-heloc-record.md) · [원문](https://www.cnbc.com/2026/11/10/credit-card-debt-record.html) · CNBC
+
+## 오후 (17:00)
+
+### 닛케이225 1.42% 상승 마감…부동산·은행주 강세, 섬코 9.31% 급등·샤프는 사상 최저
+- 닛케이225는 11월 11일 도쿄 장 마감 기준 1.42% 올랐다.
+- 섬코는 9.31% 오른 2089엔, 샤프는 6.33% 내린 503엔에 마감했다.
+- 닛케이 변동성지수는 11.24% 내린 36.25를 기록했다.
+
+[상세](../../../articles/2026/11/11/nikkei-closes-up-1-42-percent-nov-11.md) · [원문](https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-142-5017843) · Investing.com
+
+### 알리바바, AI 칩 자회사 'T-헤드' 홍콩 상장 추진…홍콩거래소 분사 허용, 상장 시기·규모는 미공개
+- 알리바바는 홍콩거래소가 T-헤드 분사를 허용할 것이라고 공시했다.
+- 상장에는 홍콩거래소와 중국 증감회 승인이 필요하다.
+- 알리바바 홍콩 주가는 11일 오전 1% 내렸고 연초 대비 약 29% 하락했다.
+
+[상세](../../../articles/2026/11/11/alibaba-t-head-hong-kong-spinoff-listing.md) · [원문](https://www.cnbc.com/2026/11/11/alibaba-pr.html) · CNBC
+
+### 기술주 매도세에 투자자들 경기방어주로 이동…AJ벨 "시장은 경계 상태", HSBC "순환매는 과도"
+- 투자자들이 기술주에서 헬스케어·필수소비재·유틸리티로 옮겨 가고 있다.
+- MSCI 세계 IT 지수는 10월 7% 내린 뒤 이달 4.6% 더 빠졌다.
+- HSBC는 미국 반도체 선행 PER이 13.5배까지 낮아졌다고 분석했다.
+
+[상세](../../../articles/2026/11/11/tech-selloff-defensive-sector-rotation.md) · [원문](https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html) · CNBC
+
+### 英 주택건설사 테일러 윔피 "올해 이익 전망 하단"…가을 판매 부진에 완공 목표 1만 500채로 낮춰
+- 테일러 윔피는 2026년 이익이 컨센서스 하단에 그칠 것이라고 밝혔다.
+- 높은 대출 금리와 생활비 부담으로 가을 판매가 부진했다.
+- 11월 8일 수주 잔고는 6839채로 1년 전 7253채보다 줄었다.
+
+[상세](../../../articles/2026/11/11/taylor-wimpey-2026-profit-low-end-autumn-sales.md) · [원문](https://www.investing.com/news/stock-market-news/taylor-wimpey-sees-2026-profit-at-low-end-of-forecasts-as-autumn-sales-weaken-5017954) · Investing.com
+
+### 베선트 재무장관 "미·중, AI 협력하되 환상은 버려야"…'초지능' 대화 채널 신설, 다음 주 APEC서 정상회담
+- 베선트 장관은 미·중이 차이에 대한 환상을 품지 말아야 한다고 했다.
+- 양국은 초지능 대화 체계를 만들어 중대 사고를 서로 알리기로 했다.
+- 미·중 정상은 11월 18~19일 APEC 계기에 다시 만날 예정이다.
+
+[상세](../../../articles/2026/11/11/bessent-us-china-ai-dialogue-no-illusions.md) · [원문](https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html) · CNBC
