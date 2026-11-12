@@ -37,3 +37,26 @@
 - 블랙스톤은 약물 권리 없이 승인·판매 마일스톤 대금만 받는다.
 
 [상세](../../../articles/2026/11/12/pfizer-blackstone-obesity-drug-funding.md) · [원문](https://www.investing.com/news/stock-market-news/pfizer-secures-up-to-15-billion-from-blackstone-for-obesity-drug-development-5019917) · 로이터(Investing.com)
+
+## 오후 (17:00)
+
+### 美 국채금리 소폭 상승…10년물 5.01%·2년물 4.78%, 기존 주택판매·10월 PPI 앞두고 경계
+- 11월 12일 오전 10년물 금리는 2bp 오른 5.0100%였다.
+- 2년물은 5bp 오른 4.7800%, 30년물은 5.3503%로 보합이었다.
+- 이날 기존 주택판매, 13일 10월 PPI 발표가 이어진다.
+
+[상세](../../../articles/2026/11/12/us-treasury-yields-rise-ahead-ppi-housing-data.md) · [원문](https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html) · CNBC
+
+### 폭스콘, 3분기 순이익 775억 대만달러로 34% 증가·예상 상회…"2027년 AI 랙 출하 높은 두 자릿수 성장"
+- 3분기 순이익은 LSEG 예상치 696억 대만달러를 웃돌았다.
+- 2027년 AI 랙 출하는 높은 두 자릿수 성장을 예상했다.
+- 11월 12일 대만 지수는 2.6% 내렸고 폭스콘은 0.8% 하락했다.
+
+[상세](../../../articles/2026/11/12/foxconn-q3-profit-beats-taiwan-index-falls.md) · [원문](https://www.investing.com/news/stock-market-news/taiwans-foxconn-reports-34-rise-in-q3-profit-beats-forecasts-5020447) · 로이터(Investing.com)
+
+### 美 CFTC, 예측시장 칼시 조사…이벤트 계약 '자체 인증' 절차 위반 여부, 폴리티코 "기소 임박"
+- CFTC가 칼시의 이벤트 계약 자체 인증 절차를 조사하고 있다.
+- 날씨 관련 계약이 지목됐고 폴리티코는 기소 임박을 보도했다.
+- 칼시는 절차상 경미한 문제이며 이미 대응 중이라고 밝혔다.
+
+[상세](../../../articles/2026/11/12/cftc-probes-kalshi-self-certified-contracts.md) · [원문](https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html) · CNBC
