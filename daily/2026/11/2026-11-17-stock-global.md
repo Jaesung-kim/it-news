@@ -37,3 +37,40 @@
 - 실망 시 주식 밸류에이션 하락과 경기 둔화 가능성을 언급했다.
 
 [상세](../../../articles/2026/11/17/warsh-fed-ai-task-force-could-disappoint.md) · [원문](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) · CNBC
+
+## 오후 (17:00)
+
+### 엔비디아, GPU 절반 이상 중국에 빌려주는 고객엔 판매 중단…"법적 위험" 경고
+- CNBC 소식통에 따르면 엔비디아가 중국 임대 비중 50% 초과 고객에 판매를 멈춘다.
+- 원격접근보안법(RASA)이 회사와 고객을 법적 조치에 노출시킨다고 경고했다.
+- 미 상무부는 16일 중국 기업의 AI 칩 원격 이용을 막는 규칙을 냈다.
+
+[상세](../../../articles/2026/11/17/nvidia-halts-sales-china-renting-data-centers.md) · [원문](https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html) · CNBC, Investing.com, Seeking Alpha
+
+### 호르무즈서 유조선 피격, 미 항모 3척째 걸프 도착…17일 아시아 거래서 브렌트 91.8달러
+- 이란이 미군과 상선 위협을 높이는 가운데 미 항모 3척째가 걸프에 도착했다.
+- UKMTO는 17일 호르무즈 해협에서 유조선이 발사체에 맞아 불이 났다고 밝혔다.
+- 17일 아시아 거래에서 브렌트는 0.7% 내린 91.8달러, WTI는 85.1달러였다.
+
+[상세](../../../articles/2026/11/17/iran-hormuz-tanker-struck-third-us-carrier.md) · [원문](https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html) · CNBC
+
+### 미 상무부·법무부 "엔비디아 협력사 메가스피드 수사, 2024년 시작"
+- 두 부처는 공동 성명에서 메가스피드 수출 통제 위반 수사가 2024년 시작됐다고 밝혔다.
+- 엔비디아는 2025년 6월 메가스피드를 판매 금지 명단에 올렸다.
+- 형사 수사는 법무부가 주도하며, 금지 뒤에도 칩을 샀다는 지적이 나왔다.
+
+[상세](../../../articles/2026/11/17/megaspeed-probe-commerce-doj-statement.md) · [원문](https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html) · CNBC
+
+### 디즈니, 17일 개장 전 실적 발표…LSEG 기대치 EPS 1.67달러·매출 252억 달러
+- 디즈니가 11월 17일 미국 장 개장 전에 회계연도 4분기 실적을 낸다.
+- LSEG 기준 기대치는 EPS 1.67달러, 매출 252억 달러다.
+- 다마로 CEO 취임 약 8개월 만의 실적으로 성장 전략 설명이 관심사다.
+
+[상세](../../../articles/2026/11/17/disney-q4-earnings-preview-damaro.md) · [원문](https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html) · CNBC
+
+### 버크셔, 3분기 델타항공 지분 12% 늘리고 뱅크오브아메리카 6% 가까이 줄여
+- 버크셔는 3분기 델타 주식 713만 주를 더 사 약 6445만 주를 보유했다.
+- 뱅크오브아메리카 지분은 6% 가까이 줄였고 매도액은 16억 달러를 넘었다.
+- 벤딩스푼스를 새로 편입했고 레나 지분은 거의 두 배로 늘렸다.
+
+[상세](../../../articles/2026/11/17/berkshire-q3-13f-delta-bank-of-america.md) · [원문](https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html) · CNBC
