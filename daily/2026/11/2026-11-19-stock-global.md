@@ -37,3 +37,40 @@
 - 연간 매출 전망은 920억 달러에서 약 925억 달러로 올렸다.
 
 [상세](../../../articles/2026/11/19/lowes-q3-online-sales-raises-outlook.md) · [원문](https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html) · CNBC
+
+## 오후 (17:00)
+
+### 대만 가권지수 4.6% 급락해 6개월 만에 최저…11월 19일 항셍 1.9%·코스피 0.5%↓, 닛케이는 0.3%↑
+- 대만 가권지수는 11월 19일 4.6% 내린 38,347.67로 6개월 만에 최저였다.
+- 외국인은 3거래일 동안 1800억 대만달러 넘게 순매도했다.
+- 같은 날 항셍은 1.9%, 코스피는 0.5% 내렸고 닛케이225는 0.3% 올랐다.
+
+[상세](../../../articles/2026/11/19/asia-stocks-taiwan-plunge-nov-19.md) · [원문](https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-taiwan-drops-4-ai-jitters-blunt-anthropic-ipo-optimism-5037723) · Investing.com
+
+### 우니크레디트·독일 정부, 코메르츠방크 인수 큰 틀 합의…본사 프랑크푸르트 유지
+- 로이터는 우니크레디트와 독일 정부가 인수 조건에 합의했다고 보도했다.
+- 합병 은행의 독일 본부는 상장 법인으로 프랑크푸르트에 남는다.
+- 정부 지분은 13.3%이며 재무장관 성명에 매각 약속은 없었다.
+
+[상세](../../../articles/2026/11/19/unicredit-germany-commerzbank-agreement.md) · [원문](https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328) · Reuters(Investing.com)
+
+### 월마트, 11월 19일 개장 전 3분기 실적 발표…LSEG 기대치 EPS 64센트·매출 1872.7억 달러
+- 월마트가 11월 19일 미국 장 개장 전 3분기 실적을 발표한다.
+- LSEG 기대치는 EPS 64센트, 매출 1872억 7000만 달러다.
+- 연말 쇼핑 시즌을 앞둔 소비 전망이 관심사로 꼽힌다.
+
+[상세](../../../articles/2026/11/19/walmart-q3-earnings-preview.md) · [원문](https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html) · CNBC
+
+### AI 기업 부도 위험에 베팅하는 CDS ETF 나온다…터틀·디파이언스, 코어웨이브·오라클 상품 SEC 신청
+- 터틀캐피털과 디파이언스가 AI 기업 CDS ETF를 SEC에 신청했다.
+- 코어웨이브 5년물 CDS는 최근 1,100~1,200 사이에서 움직였다.
+- 오라클 CDS는 1년 새 80 미만에서 300 이상으로 올랐다.
+
+[상세](../../../articles/2026/11/19/ai-credit-default-swap-etfs.md) · [원문](https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html) · CNBC
+
+### 미국 10월 주택 매매 계약 지수 사상 최저…건축 허가도 2020년 5월 이후 최저
+- NAR의 10월 미결주택매매 지수는 전년보다 16.7% 줄어 사상 최저였다.
+- 10월 건축 허가는 전월 대비 8.7% 줄어 2020년 5월 이후 최저였다.
+- NAR은 연간 기존주택 판매가 1990년대 중반 이후 최저일 수 있다고 봤다.
+
+[상세](../../../articles/2026/11/19/us-housing-pending-sales-permits-october.md) · [원문](https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html) · CNBC
