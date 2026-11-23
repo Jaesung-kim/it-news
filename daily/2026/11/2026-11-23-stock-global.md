@@ -37,3 +37,40 @@
 - 이란발 에너지 가격, 재정 위험, AI 투자 실망을 3대 위험으로 꼽았다.
 
 [상세](../../../articles/2026/11/23/goldman-sachs-2027-global-outlook.md) · [원문](https://www.investing.com/news/stock-market-news/goldman-sachs-economic-outlook-for-2027-5044151) · Investing.com
+
+## 오후 (17:00)
+
+### 11월 23일 아시아 증시 혼조…대만 가권 2.4%↑·코스피 3.3%↓, 美 지수 선물은 2% 안팎 반등
+- 11월 23일 아시아 장에서 대만 가권은 2.4% 오르고 코스피는 3.3% 내렸다.
+- 미 동부 오전 2시 14분 S&P500 선물은 2.1%, 나스닥100 선물은 2.9% 올랐다.
+- 11월 20일 3대 지수는 모두 조정 국면에 들어섰고 VIX는 35.89였다.
+
+[상세](../../../articles/2026/11/23/asia-mixed-us-futures-rebound-after-correction.md) · [원문](https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254) · Investing.com
+
+### 후티 반군, 사우디 라비그 정유공장 공격 주장…트럼프 "합의 안 되면 내년 이란 공습" 시사
+- 후티 반군이 11월 22일 사우디 라비그 정유공장 공격을 주장했다.
+- 트럼프 대통령은 합의가 없으면 내년 이란 공습에 기울어 있다고 말했다.
+- 11월 23일 아시아 장 초반 브렌트유는 92.35달러, WTI는 83.25달러였다.
+
+[상세](../../../articles/2026/11/23/houthis-saudi-rabigh-refinery-attack.md) · [원문](https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html) · CNBC
+
+### 바이엘, 72억5000만달러 라운드업 합의 법원 승인…11월 23일 장전 주가 7% 상승 전망
+- 미주리주 법원이 바이엘의 72억5000만달러 라운드업 합의를 승인했다.
+- 합의는 미국 내 현재·미래 라운드업 청구 거의 전부를 대상으로 한다.
+- 로이터는 바이엘 주가가 11월 23일 장전 7% 오를 것으로 봤다고 전했다.
+
+[상세](../../../articles/2026/11/23/bayer-roundup-settlement-approved.md) · [원문](https://www.investing.com/news/stock-market-news/bayer-wins-approval-for-725-billion-roundup-settlement-5044553) · Investing.com, Reuters
+
+### ABB, 독일 환기·구동 기술업체 치엘-아벡 26억5000만달러에 인수…데이터센터 냉각 수요 겨냥
+- ABB가 치엘-아벡을 기업가치 26억5000만달러에 인수한다고 발표했다.
+- 인수가는 2026년 예상 매출의 1.9배, EBITDA의 18.6배 수준이다.
+- ABB는 데이터센터 투자로 냉각 수요가 장기적으로 늘 것으로 봤다.
+
+[상세](../../../articles/2026/11/23/abb-acquires-ziehl-abegg.md) · [원문](https://www.investing.com/news/stock-market-news/abb-to-acquire-germanys-ziehlabegg-for-265-billion-5044422) · Reuters(Investing.com), Seeking Alpha
+
+### 바르 에네르기, 코노코필립스 노르웨이 사업 44억2500만달러에 인수…에코피스크 운영권 확보
+- 바르 에네르기가 코노코필립스 노르웨이 사업을 44억2500만달러에 산다.
+- 13개 생산 유전 지분과 에코피스크·티스사이드 운영권을 확보한다.
+- 거래는 2027년 1분기 말 무렵 마무리될 예정이다.
+
+[상세](../../../articles/2026/11/23/var-energi-conocophillips-norway-deal.md) · [원문](https://www.investing.com/news/stock-market-news/var-energi-to-buy-conocophillips-norway-assets-in-443-bln-deal-93CH-5044458) · Investing.com
