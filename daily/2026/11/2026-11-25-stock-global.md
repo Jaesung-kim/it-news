@@ -37,3 +37,40 @@
 - MBA는 2027년 상업용 모기지 대출 증가율 전망을 약 8%에서 1%로 낮췄다.
 
 [상세](../../../articles/2026/11/25/us-commercial-real-estate-october-lightbox.md) · [원문](https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html) · CNBC
+
+## 오후 (17:00)
+
+### 닛케이225 11월 25일 2.62% 하락 마감…소프트뱅크 14.83%↓, 아시아 기술주로 번진 AI 매도
+- 닛케이225는 11월 25일 2.62% 내렸고 소프트뱅크는 14.83% 하락했다.
+- CNBC 보도 시점에 TSMC는 7%, 삼성전자·SK하이닉스는 8% 넘게 내렸다.
+- 퓨처럼그룹 벌크는 2027년 이후 AI 지출 우려를 주된 배경으로 봤다.
+
+[상세](../../../articles/2026/11/25/nikkei-softbank-asia-tech-selloff-nov25.md) · [원문](https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-262-5049846) · Investing.com, CNBC
+
+### 美 국채 금리 11월 25일 하락…10년물 4.8699%, 10월 PCE 물가 발표 대기
+- 11월 25일 CNBC 보도 시점 10년물 금리는 3bp 내린 4.8699%였다.
+- 다우존스 조사에서 10월 PCE 물가는 전월 대비 0.3% 상승으로 예상됐다.
+- 미국 채권시장은 11월 26일 휴장하고 27일 조기 마감한다.
+
+[상세](../../../articles/2026/11/25/treasury-yields-pce-preview-nov25.md) · [원문](https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html) · CNBC
+
+### AI 투자 자금줄에 깐깐해진 채권시장…올해 주요 AI 기업 채권 발행 약 2500억달러 예상
+- 핌코는 올해 주요 AI 기업의 채권 조달을 약 2500억달러로 예상했다.
+- 맨그룹은 빅테크 4곳의 설비투자가 2년 연속 현금 창출을 웃돌 것으로 봤다.
+- L&G 리스는 오라클 등 BBB 채권이 싱글B처럼 거래된다고 말했다.
+
+[상세](../../../articles/2026/11/25/ai-debt-big-tech-bond-market.md) · [원문](https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html) · CNBC
+
+### 독일 3분기 성장률 0.2%→0.1% 하향…설비투자 3.5%·수출 1.0% 감소
+- 독일 3분기 GDP 증가율이 전분기 대비 0.1%로 속보치보다 낮아졌다.
+- 기계·설비 투자는 3.5%, 수출은 1.0% 줄었고 가계 소비는 0.1% 늘었다.
+- 같은 분기 성장률은 유로존 0.4%, 미국 0.8%, 프랑스 -0.1%였다.
+
+[상세](../../../articles/2026/11/25/germany-q3-gdp-revised-2026.md) · [원문](https://seekingalpha.com/news/4676462-germanys-q3-gdp-growth-cut-to-01-on-weaker-exports-and-investment) · Seeking Alpha, 독일 연방통계청
+
+### 中 샤먼항공, 보잉 737-8 50대 구매 합의…정가 약 74억달러, 2031~2034년 인도
+- 중국남방항공이 11월 24일 자회사 샤먼항공의 구매 계약을 공시했다.
+- 50대 정가는 약 74억달러이며 실제 가격은 공개하지 않았다.
+- 5월 승인된 보잉 200대 구매에 포함되는 물량인지는 분명하지 않다.
+
+[상세](../../../articles/2026/11/25/xiamen-airlines-boeing-737-50-order.md) · [원문](https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html) · CNBC
