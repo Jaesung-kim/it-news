@@ -1,6 +1,43 @@
 # 2026-11-27 해외 증시
 > 정보 제공 목적의 요약이며 투자 권유가 아닙니다.
 
+## 오후 (17:00)
+
+### 닛케이225 11월 27일 2.11% 상승 마감…소시오넥스트 12.56%·레이저텍 9.98% 급등, 상승 종목이 하락의 두 배
+- 닛케이225는 11월 27일 부동산·은행 강세 속에 2.11% 올랐다.
+- 소시오넥스트 12.56%, 레이저텍 9.98% 등 반도체주가 급등했다.
+- 도쿄증시 상승 종목은 2,351개로 하락 1,176개를 크게 앞섰다.
+
+[상세](../../../articles/2026/11/27/nikkei-nov27-close-up-2-11.md) · [원문](https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-211-5053031) · Investing.com
+
+### 中 국무원 "국가대표 자금 역할 확대" 증시 부양 신호에 본토 증시 3% 넘게 급등…반도체지수 16%↑·항셍테크 6%↑
+- 리창 총리 주재 국무원 회의가 국가대표 자금 역할 확대를 주문했다.
+- 11월 27일 오후장 중국 주요 지수는 3% 넘게 뛰었다.
+- 같은 시점 항셍지수는 2%, 항셍테크지수는 6% 올랐다.
+
+[상세](../../../articles/2026/11/27/china-stocks-yuan-rally-state-council-support.md) · [원문](https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026) · Reuters, Investing.com
+
+### 美 주가지수 선물, 추수감사절 휴장 뒤 급등…나스닥100 선물 2.47%↑·S&P500 1.65%↑, 12월 금리 인상 확률 99%
+- 11월 27일 새벽(미 동부) 나스닥100 선물이 2.47% 뛰었다.
+- 같은 시각 S&P500 선물은 1.65%, 다우 선물은 0.89% 올랐다.
+- XTB는 기술적 반등일 뿐 시장 불안 요인은 그대로라고 봤다.
+
+[상세](../../../articles/2026/11/27/us-futures-surge-after-thanksgiving.md) · [원문](https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052) · Reuters, Investing.com
+
+### 中 10월 공업이익 20.1% 급증, 5월 이후 최고…전자 이익 두 배로 늘었지만 자동차 26%·시멘트·유리 46.7% 감소
+- 중국 10월 공업이익이 전년 대비 20.1% 늘어 5월 이후 최고였다.
+- 1~10월 전자 업종 이익은 AI 수요에 힘입어 두 배로 늘었다.
+- 자동차와 부동산 관련 업종 이익은 큰 폭으로 줄었다.
+
+[상세](../../../articles/2026/11/27/china-industrial-profits-october.md) · [원문](https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html) · CNBC
+
+### 블룸버그 "SAP, AI 전환 위해 최소 1만명 감원 검토"…전 직원 11만명 이상, 제품·엔지니어링·영업 집중
+- 블룸버그는 SAP가 최소 1만 명 감원을 검토 중이라고 보도했다.
+- 제품·엔지니어링·영업 부문이 집중 검토 대상으로 알려졌다.
+- 감원 규모는 노사 협상에 따라 바뀔 수 있고 SAP는 논평 요청에 답하지 않았다.
+
+[상세](../../../articles/2026/11/27/sap-weighs-10000-job-cuts-ai.md) · [원문](https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html) · CNBC, Bloomberg
+
 ## 오전 (07:30)
 
 ### 뉴욕증시 11월 25일 장중 급락 뒤 낙폭 축소…나스닥 0.6%↓·S&P500 0.3%↓·다우 0.3%↑, 추수감사절 선물은 상승
